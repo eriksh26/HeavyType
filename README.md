@@ -1,5 +1,5 @@
 # HeavyType (;
-HeavyType is a typing game (more like monkeytype) where you can test your typing speed and improve your typing skills(more like flexing to your friends).
+HeavyType is a typing game, inspired by Monkeytype (you guessed it correctly), where you can test your typing speed and improve your typing skills(more like flexing to your friends).
 
 ![image](https://user-images.githubusercontent.com/108941456/207411495-b02e5441-6b39-4b96-b36a-edd6dad88b40.png)
 
